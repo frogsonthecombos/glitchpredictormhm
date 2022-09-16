@@ -14,4 +14,5 @@ Proof he used my code, as the designs are the same, especially the responses (yo
 My auto-play system being bragged about in his announcements like he made it.
 ![](https://user-images.githubusercontent.com/76060406/190830430-0017b70d-ccd4-426e-99fd-586da9279deb.png)
 
+Him revamping it after being embarrassed, as well as being called out for randomization, blackmail, and harassment of minors using their personal information.
 ![](https://user-images.githubusercontent.com/76060406/190830308-7c274f6c-c81f-4bb3-8a4c-7b475ee04e16.png)
