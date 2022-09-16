@@ -16,3 +16,6 @@ My auto-play system being bragged about in his announcements like he made it.
 
 Him revamping it after being embarrassed, as well as being called out for randomization, blackmail, and harassment of minors using their personal information.
 ![](https://user-images.githubusercontent.com/76060406/190830308-7c274f6c-c81f-4bb3-8a4c-7b475ee04e16.png)
+
+Multiple messages proving we worked together through [Visual Studio Code](https://code.visualstudio.com).
+![](https://user-images.githubusercontent.com/76060406/190830676-eeed88b8-342d-4491-b1e2-cba27fbeff60.png)
