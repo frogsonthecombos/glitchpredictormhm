@@ -5,7 +5,7 @@ Glitch predictor was a project known by many, with around 16k users in little ov
 Mah, the developer of Pluton/Vyor (he recently revamped it), joined the team to help boost efforts. He did virtually nothing for the bot, his API is easily recreatable but he made it out to be more than it is. He copied my source code while we worked together and after we fell out, he used it and claimed it as "Pluton V4". This is total bullshit, as I have proof it's my code and he just threw it onto a new bot application.
 
 ### Collection of Images
-Us running him off of his project originally.
+Us running him off of his project originally (before he returned with my stolen source code).
 ![](https://user-images.githubusercontent.com/76060406/190830353-e62124ab-366b-41dd-af68-9e5d76bad268.png)
 
 Proof he used my code, as the designs are the same, especially the responses (you can see this in the code).
